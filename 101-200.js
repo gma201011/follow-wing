@@ -251,142 +251,142 @@ const data2 = [
   },
   {
     link: "https://www.facebook.com/watch/?v=345197576215795",
-    title: "EP165",
+    title: "EP165 五中燦宇保險箱打不開 美善跑步遇帥哥",
   },
   {
     link: "https://www.facebook.com/watch/?v=182457162655033",
-    title: "EP166",
+    title: "EP166 美月被誤會放屁的冤屈 英蘭喜歡上五中",
   },
   {
     link: "https://www.facebook.com/watch/?v=180686632815898",
-    title: "EP167",
+    title: "EP167 英奎幫院長送東西搞丟 雷恩慧喬偷偷出遊",
   },
   {
     link: "https://www.facebook.com/watch/?v=970656326460321",
-    title: "EP168",
+    title: "EP168 五中被網球拍卡住 龍女生氣院長不跟他一起活動",
   },
   {
     link: "https://www.facebook.com/watch/?v=575898806163110",
-    title: "EP169",
+    title: "EP169 泰蘭的首次相親大出糗 美月以為有個小弟弟了",
   },
   {
     link: "https://www.facebook.com/watch/?v=1000849746786008",
-    title: "EP170",
+    title: "EP170 金護士率護士群抗議 美月收到雷恩向日葵",
   },
   {
     link: "https://www.facebook.com/watch/?v=254695851906811",
-    title: "EP172",
+    title: "EP172 五中燦與車拋錨  英奎院長偷看慧喬的日記",
   },
   {
     link: "https://www.facebook.com/watch/?v=314438859366826",
-    title: "EP173",
+    title: "EP173 英奎再去應徵 義燦亂講英蘭的話",
   },
   {
     link: "https://www.facebook.com/watch/?v=545770532529571",
-    title: "EP174",
+    title: "EP174 燦宇去水蓮家作客大出糗  慧喬生日宗五鬧事",
   },
   {
     link: "https://www.facebook.com/watch/?v=255000091882852",
-    title: "EP175",
+    title: "EP175 燦宇泰蘭去水蓮爸的展覽 英奎上班第一天被同學質疑能力",
   },
   {
     link: "https://www.facebook.com/watch/?v=2194050000852220",
-    title: "EP176",
+    title: "EP176 龍女美善的社區打鼓學習",
   },
   {
     link: "https://www.facebook.com/watch/?v=261507831377823",
-    title: "EP177",
+    title: "EP177 義燦與爸爸  院長的朋友偷東西",
   },
   {
     link: "https://www.facebook.com/watch/?v=1079672992210624",
-    title: "EP178",
+    title: "EP178 吸血鬼宗五  神奇的脈斑岩牙膏",
   },
   {
     link: "https://www.facebook.com/watch/?v=174239956773912",
-    title: "EP179",
+    title: "EP179 英奎當主婚人 五中挑戰電視節目",
   },
   {
     link: "https://www.facebook.com/watch/?v=1116808728493430",
-    title: "EP180",
+    title: "EP180 泰蘭相親去",
   },
   {
     link: "https://www.facebook.com/watch/?v=172747360326624",
-    title: "EP190",
+    title: "EP190 美月調皮被雷恩罵",
   },
   {
     link: "https://www.facebook.com/watch/?v=2125352451114590",
-    title: "EP181",
+    title: "EP181 打針風波",
   },
   {
     link: "https://www.facebook.com/watch/?v=1900651130030003",
-    title: "EP182",
+    title: "EP182 英奎要調薪",
   },
   {
     link: "https://www.facebook.com/watch/?v=2128105927222180",
-    title: "EP183",
+    title: "EP183 麵包風波 龍女的倒楣日",
   },
   {
     link: "https://www.facebook.com/watch/?v=525209677943493",
-    title: "EP184",
+    title: "EP184 泰蘭看牙醫 英奎撿東西",
   },
   {
     link: "https://www.facebook.com/watch/?v=261155744594558",
-    title: "EP185",
+    title: "EP185 小偷來襲 貪吃的美月",
   },
   {
     link: "https://www.facebook.com/watch/?v=510764702758166",
-    title: "EP186",
+    title: "EP186 家庭錄影帶  英蘭的身世",
   },
   {
     link: "https://www.facebook.com/watch/?v=864874123636828",
-    title: "EP187",
+    title: "EP187 雷恩的魅力 服裝秀",
   },
   {
     link: "https://www.facebook.com/watch/?v=336395263792014",
-    title: "EP188",
+    title: "EP188 英奎領薪水 五中洗三溫暖",
   },
   {
     link: "https://www.facebook.com/watch/?v=257970684866524",
-    title: "EP189",
+    title: "EP189 逃避責任的英奎",
   },
   {
     link: "https://www.facebook.com/watch/?v=252341735434376",
-    title: "EP191",
+    title: "EP191 美月與惠喬的結怨",
   },
   {
     link: "https://www.facebook.com/watch/?v=288211108568478",
-    title: "EP192",
+    title: "EP192 騷擾電話 燦宇分手了",
   },
   {
     link: "https://www.facebook.com/watch/?v=900356846829220",
-    title: "EP193",
+    title: "EP193 院長的線民 英蘭闖空門",
   },
   {
     link: "https://www.facebook.com/watch/?v=2032290813460627",
-    title: "EP194",
+    title: "EP194 英奎 燦宇大鬥法",
   },
   {
     link: "https://www.facebook.com/watch/?v=255583508463766",
-    title: "EP195",
+    title: "EP195 倒楣的院長與泰蘭 美月遇狗記",
   },
   {
     link: "https://www.facebook.com/watch/?v=550186265428178",
-    title: "EP196",
+    title: "EP196 燦宇生日 英奎不受歡迎",
   },
   {
     link: "https://www.facebook.com/watch/?v=191041125117635",
-    title: "EP197",
+    title: "EP197 怪人暗戀泰蘭 我要去美國",
   },
   {
     link: "https://www.facebook.com/watch/?v=495758214254744",
-    title: "EP198",
+    title: "EP198 思念老婆的院長",
   },
   {
     link: "https://www.facebook.com/watch/?v=1933595266935668",
-    title: "EP199",
+    title: "EP199 暖氣壞了  夜晚爭奪戰",
   },
   {
     link: "https://www.facebook.com/watch/?v=464299510643541",
-    title: "EP200",
+    title: "EP200 美善英奎吵架",
   },
 ];
