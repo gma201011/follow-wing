@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="dark">
+  <title>順風婦產科</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ"
+    crossorigin="anonymous"></script>
+  <script src="./1-100.js"></script>
+  <script src="./101-200.js"></script>
+  <script src="./201-300.js"></script>
+  <script src="./301-400.js"></script>
+  <script src="./401-500.js"></script>
+  <script src="./501-600.js"></script>
+  <script src="./601-684.js"></script>
+  <style>
+    body {
+      background: #222;
+    }
+
+    .card-body {
+      background: #222;
+      border-color: #9e9e9e;
+      width: 80%;
+      margin: 0 auto;
+    }
+
+    .card-body>h5,
+    .card-body>a {
+      color: #b1b1b1;
+    }
+
+    .nav {
+      width: 85%;
+      margin: 3% auto 0 auto;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .tab-text {
+      color: #b1b1b1 !important;
+      border-color: #e9ecef #e9ecef #dee2e6 !important;
+    }
+
+    .nav>.nav-item:not(:first-child) {
+      margin-left: 1%;
+    }
+
+    .content {
+      color: #b1b1b1;
+      width: 85%;
+      margin: 0 auto;
+      margin-top: 3px;
+    }
+
+    .content-card {
+      border: 1px solid #9e9e9e;
+      padding: 10px 0;
+      border-radius: 5px;
+    }
+
+    .content-text {
+      color: #b1b1b1 !important;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+  <ul class="nav nav-tabs">
+    <li class="nav-item tab1">
+      <a class="nav-link tab-text" href="#">1-100</a>
+    </li>
+    <li class="nav-item tab2">
+      <a class="nav-link tab-text" href="#">101-200</a>
+    </li>
+    <li class="nav-item tab3">
+      <a class="nav-link tab-text" href="#">201-300</a>
+    </li>
+    <li class="nav-item tab4">
+      <a class="nav-link tab-text" href="#">301-400</a>
+    </li>
+    <li class="nav-item tab5">
+      <a class="nav-link tab-text" href="#">401-500</a>
+    </li>
+    <li class="nav-item tab6">
+      <a class="nav-link tab-text" href="#">501-600</a>
+    </li>
+    <li class="nav-item tab7">
+      <a class="nav-link tab-text" href="#">601-684</a>
+    </li>
+  </ul>
+  <div class="content"></div>
+  <script>
+    function handleHtmlString(data) {
+      let string = "";
+      data.forEach(item => string += `
+      <div class="content-card">
+        <h5>${item.title}</h5>
+        <a class="content-text" target=”_blank” rel="noreferrer noopenner" href="${item.link}">
+          ${item.link}
+        </a>
+      </div>
+    `)
+      return string;
+    }
+    const d1 = handleHtmlString(data1);
+    const d2 = handleHtmlString(data2);
+    const d3 = handleHtmlString(data3);
+    const d4 = handleHtmlString(data4);
+    const d5 = handleHtmlString(data5);
+    const d6 = handleHtmlString(data6);
+    const d7 = handleHtmlString(data7);
+
+    document.querySelector(".tab1").addEventListener("click", function (e) {
+      document.querySelector(`.content`).innerHTML = d1;
+    })
+    document.querySelector(".tab2").addEventListener("click", function (e) {
+      document.querySelector(`.content`).innerHTML = d2;
+    })
+    document.querySelector(".tab3").addEventListener("click", function (e) {
+      document.querySelector(`.content`).innerHTML = d3;
+    })
+    document.querySelector(".tab4").addEventListener("click", function (e) {
+      document.querySelector(`.content`).innerHTML = d4;
+    })
+    document.querySelector(".tab5").addEventListener("click", function (e) {
+      document.querySelector(`.content`).innerHTML = d5;
+    })
+    document.querySelector(".tab6").addEventListener("click", function (e) {
+      document.querySelector(`.content`).innerHTML = d6;
+    })
+    document.querySelector(".tab7").addEventListener("click", function (e) {
+      document.querySelector(`.content`).innerHTML = d7;
+    })
+  </script>
+</body>
+
+</html>
